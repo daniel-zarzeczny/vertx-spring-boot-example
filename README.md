@@ -17,4 +17,5 @@ container whereas Vert.x is responsible for handing HTTP requests.
 Click [here](http://localhost:8080) to make sure it's up and running.
 Default port is set to `8080`. You may change it in `application.properties`
 file by modifying `server.port` property. If everything's fine you should see:
-[![N|Solid](preview.png)]
+
+![preview](preview.png)
