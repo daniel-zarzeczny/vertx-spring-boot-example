@@ -7,7 +7,7 @@ By using this software you accept the license agreement.
 ## About
 
 Simple application meant to serve as an example of
-[Spring Boot][https://projects.spring.io/spring-boot/] and
-Vert.x integration. Spring Boot is used as application start-up
-engine and dependency injection container whereas
-Vert.x is responsible for handing HTTP request.
+[Spring Boot](https://projects.spring.io/spring-boot/)
+and [Vert.x](http://vertx.io) integration. Spring Boot
+is used as application start-upengine and dependency injection
+container whereasVert.x is responsible for handing HTTP request.
